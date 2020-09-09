@@ -1,0 +1,28 @@
+_repo: Scottish-Reminiscences_63074
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Geikie, Archibald
+    aliases:
+    - Geikie, Archibald, Sir
+    - Geikie, A. (Archibald)
+    birthdate: 1835
+    deathdate: 1924
+    gutenberg_agent_id: '52267'
+    url: http://www.gutenberg.org/2009/agents/52267
+    wikipedia: https://en.wikipedia.org/wiki/Archibald_Geikie
+description: ''
+gutenberg_issued: '2020-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63074'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Scotland -- Social life and customs'
+- GITenberg
+title: Scottish Reminiscences
+url: http://www.gutenberg.org/ebooks/63074
